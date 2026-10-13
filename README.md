@@ -30,12 +30,11 @@ I'm an engineering student passionate about programming, software development, a
 - Practicing DSA and learning computer networks
 - Exploring Linux and ethical cybersecurity
 - Building and documenting hands-on engineering projects
-
+- 
 ### 🤝 Connect With Me
 
-- GitHub: [@ayush-hexlab](https://github.com/ayush-hexlab)
-- LinkedIn: Add your actual LinkedIn profile URL here
-
+- 💻 GitHub: [@ayush-hexlab](https://github.com/ayush-hexlab)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/ayush-hexlab/)
 ---
 
 ⭐ **Learn. Build. Secure. Repeat.**
